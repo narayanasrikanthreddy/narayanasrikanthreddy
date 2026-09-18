@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @narayanasrikanthreddy
 - 👀 I’m interested in ...Techology and Philosophy
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...R projects
-- 📫 How to reach me ...srikanthpresenceonline@gmail.com
+- 🌱 I’m currently learning ...LLM
+- 💞️ I’m looking to collaborate on ...AIML projects
+- 📫 How to reach me ...narayanasrikanthreddy@gmail.com
 
 <!---
 narayanasrikanthreddy/narayanasrikanthreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
