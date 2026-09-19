@@ -25,10 +25,10 @@ I am interested in collaborating on **AI/ML projects**, particularly those invol
 
 Sample Project
 
-- [ https://drive.google.com/file/d/1KHq1ry0i-gMF3lWmwCBl-ifnw_B8_4kE/view?usp=sharing ]
+-  https://drive.google.com/file/d/1KHq1ry0i-gMF3lWmwCBl-ifnw_B8_4kE/view?usp=sharing 
 - 
 - 
--  [ https://colab.research.google.com/drive/1H4vzqW0tc-C12AhKpY_USBH3ErekfFju?usp=sharing]
+-  https://colab.research.google.com/drive/1H4vzqW0tc-C12AhKpY_USBH3ErekfFju?usp=sharing
 -  
 
 - https://rpubs.com/narayanasrikanthreddy
