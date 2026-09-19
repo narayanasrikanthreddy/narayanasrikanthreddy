@@ -23,18 +23,12 @@ I am interested in collaborating on **AI/ML projects**, particularly those invol
 
 📧 **Email:** [narayanasrikanthreddy@gmail.com](mailto:narayanasrikanthreddy@gmail.com)
 
-Sample Project
+Sample Projects
 
 -  https://drive.google.com/file/d/1KHq1ry0i-gMF3lWmwCBl-ifnw_B8_4kE/view?usp=sharing 
-- 
-- 
 -  https://colab.research.google.com/drive/1H4vzqW0tc-C12AhKpY_USBH3ErekfFju?usp=sharing
--  
-
-- https://rpubs.com/narayanasrikanthreddy
-- 
-- https://public.tableau.com/views/CarInsuranceClaimAnalysis_17898031792170/Intro-QA-14Chartsused?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- 
+-  https://rpubs.com/narayanasrikanthreddy
+-  https://public.tableau.com/views/CarInsuranceClaimAnalysis_17898031792170/Intro-QA-14Chartsused?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - https://narayanasrikanthreddy.github.io/
 <!---
 narayanasrikanthreddy/narayanasrikanthreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
