@@ -34,7 +34,7 @@ I am interested in collaborating on **AI/ML projects**, particularly those invol
 ## Sample Publications 
 - https://www.flipkart.com/data-science-using-r/p/itm7256e5955ca18
 - https://www.bluepeninternationalpublisher.com/product-detail.php?PID=MTIy
-- 
+- Note: More projects , published textbooks, journal publications, conference publications available on request
 <!---
 narayanasrikanthreddy/narayanasrikanthreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
